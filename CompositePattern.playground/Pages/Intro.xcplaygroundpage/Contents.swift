@@ -10,7 +10,7 @@
  ## Our Example
  ---
  ### Scenario
- Imagine you have a login. In order to login the user has to enter these fields:
+ Imagine you have a registration form. In order to login the user has to enter these fields:
  * Email
  * Password
  
